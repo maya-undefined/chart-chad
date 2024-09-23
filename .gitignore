@@ -5,6 +5,5 @@ __pycache__
 .chainlit/
 credentials.json
 token.json
-qa_dataset.json
 data/
 
